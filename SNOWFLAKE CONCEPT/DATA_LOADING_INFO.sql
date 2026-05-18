@@ -26,5 +26,8 @@
         pattern='.*sales.*.csv'
 
     ---3) load continues data using snowpipe ---
+
+    if you want to load bulk loading then use the copy command to load data 
+    and if continues data loading is require then use the snowpipe for that perticular usecase like kafka 
     
 */
